@@ -1,4 +1,4 @@
-### Hi there, my name is Lilly 👋
+# Hi there, my name is Lilly 👋
 
 - 🏫: I am currently finishing my Bachelor degree in Computer Science at University of Bergen.
 - 🎓: I have a Higher Professional Degree in Web Development from Noroff, School of Technology and Digital Media.  
